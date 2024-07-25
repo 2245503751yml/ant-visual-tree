@@ -1,6 +1,6 @@
-import ja from "../../public/locales/ja.json";
-import en from "../../public/locales/en.json";
-import zh from "../../public/locales/zh.json";
+import ja from "../assets/locales/ja.json";
+import en from "../assets/locales/en.json";
+import zh from "../assets/locales/zh.json";
 
 export const resources = {
 	"ja": {
